@@ -1,0 +1,32 @@
+body{
+    
+    background-color:seagreen;
+}
+
+.scolor{
+    
+    color:red;
+}
+
+.cont{
+    
+    width: 60%;
+    margin: 0px 30px 0px 30px;
+    
+    /*display: inline-block;*/
+    
+}
+.lcon{
+    
+font-family: sans-serif;
+        
+}
+.icont{
+    
+    margin: 0px 10px 0px 10px;
+    border: 1px solid black;
+    padding : 5px;
+    
+    
+    
+}

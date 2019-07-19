@@ -1,0 +1,39 @@
+<html>
+<head>
+    <title>Student Information</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    </head>
+<body>
+<div>
+<form action="student.php" method="post">
+  <h1>Students Information</h1>    
+ <label class="lab">Name :</label><input  type="text" name="name" class="sinp"><br><br>
+ <label class="lab">Age :</label><input type="number" name="name" class="sinp" ><br><br>
+ <label class="lab">Date of Birth :</label><input type="date" name="date" class="sinp"><br><br>
+ <label class="lab">Email :</label><input type="email" name="email" class="sinp"><br><br>
+ <label class="lab">Gender : </label>
+   <label>Male</label><input type="radio" name="gender" value="Male" >
+ <label>Female</label><input type="radio" name="gender" value="Female"><br><br>
+
+ <label class="lab">Country :</label>
+ <select class="sinp" style="font-size:20px,font-family:monospace">
+    <option>India</option>
+    <option>Italy</option>
+    <option>Russia</option>
+    <option>America</option>
+    <option>England</option>
+    <option>France</option>
+ </select><br><br>    
+
+<input type="submit" name="submit" class="sbin">
+<input type="reset" name="reset" class="sbin">
+
+</form>    
+
+</div>    
+    
+
+</body>
+
+</html>

@@ -1,0 +1,67 @@
+                                   Student resume 
+
+
+                Pesrsonal details
+  
+                    Name :
+                    Email :
+                    Cantact No :
+------------------------------------------
+             Career Objective
+ 
+                       dmf,v,m,sv.
+
+-------------------------------------------
+
+Education Details 
+  
+  Course :
+   
+   School/College :
+
+Board/University :
+
+Year of Competion : 
+
+Percentage :
+
+-------------------------------------
+
+Technical Details
+
+Languages Known :
+
+OS Known :
+
+Database Known :
+
+Web Packages :
+
+-----------------------------------------------
+
+Project 
+
+
+-----------------------------------------------
+
+Personal Qualities
+
+-----------------------------------------------
+
+Achievements
+------------------------------------------------
+
+Pesonal Details 
+
+Languages Known :
+
+DOB : 
+Addres
+
+--------------------------------------------------
+
+Upload Files 
+
+
+
+

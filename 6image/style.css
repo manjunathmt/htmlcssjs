@@ -1,0 +1,17 @@
+.divdisplay{
+    display:inline;
+    
+}
+.imgd{
+    width: 30%;
+    border: 1px soid black;
+    display:inline-block;
+    border-radius: 25px;
+    margin-right: 20px;
+    background:#23eebc29;
+    
+}
+.imgcl{
+    width: 100%;
+     border-radius: 25px 25px 25px 0 ;
+}
